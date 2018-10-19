@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.80/x64" 1539792398
+<REAPER_PROJECT 0.1 "5.80/x64" 1539954597
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 91.6841779001912
-  ZOOM 0.77439752011838 0 0
+  CURSOR 438.5297957901393
+  ZOOM 1.09000575237708 0 0
   VZOOMEX 31
   USE_REC_CFG 0
   RECMODE 1
@@ -1363,7 +1363,7 @@
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       GROUP 28
       IGUID {B1629D1C-D3E2-41CA-9B5A-DAFA62619313}
       IID 139
@@ -2033,7 +2033,7 @@
       LOOP 1
       ALLTAKES 0
       FADEIN 1.1 0 0.013655 1 1 0
-      FADEOUT 1.1 0 0.340525 1 1 0
+      FADEOUT 1 0 0 1 0 0
       MUTE 0
       SEL 0
       GROUP 42
@@ -2045,30 +2045,6 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {A51B331B-0DCB-4770-B00A-2E08E1647186}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 141.63953389662495
-      SNAPOFFS 0
-      LENGTH 22.38314892022058
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0 0.340525 1 1 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 42
-      IGUID {0359F687-9FCF-4E67-AA04-9F54742B26AD}
-      IID 138
-      NAME 01-180731_1749-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 54.65953321519765
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {86482891-2F6B-4BE7-BD59-333C62BDA491}
       RECPASS 2
       <SOURCE WAVE
         FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
@@ -2555,367 +2531,7 @@
       >
     >
     <ITEM
-      POSITION 186.77484701998338
-      SNAPOFFS 0
-      LENGTH 4.54936110716903
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 54
-      IGUID {FB4AA8BB-3D1A-4BF8-9D59-431C4DAD43AA}
-      IID 250
-      NAME 01-180731_1749-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 37.40209445321096
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1EC14190-40FD-4C1C-A46C-5B035C6102CD}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 186.77484701998338
-      SNAPOFFS 0
-      LENGTH 3.93871314008379
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 54
-      IGUID {5209422F-C2E2-482A-B82A-A87A27995B09}
-      IID 250
-      NAME 01-180731_1749-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 38.0127424202962
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {61C18F6D-80C8-4AEA-AB99-1937E208CB19}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 186.77484701998338
-      SNAPOFFS 0
-      LENGTH 3.32806517299855
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 54
-      IGUID {16E19D6C-1155-4FD2-8F2F-5BAE769C26F6}
-      IID 250
-      NAME 01-180731_1749-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 38.62339038738144
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B03E7E73-D554-48A8-90CF-FD2077ED7790}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 186.77484701998338
-      SNAPOFFS 0
-      LENGTH 2.71741720579689
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 54
-      IGUID {130AD022-CC22-445F-9F40-0CC1D73BE8DE}
-      IID 250
-      NAME 01-180731_1749-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 39.2340383545831
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {C886D22E-5021-457F-8E39-FD8E56AF8AFE}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 186.77484701998338
-      SNAPOFFS 0
-      LENGTH 2.10676923868638
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 54
-      IGUID {7051E9AC-7575-42E9-A1B2-16CBA1E559FF}
-      IID 262
-      NAME 01-180731_1749-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 39.84468632169361
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {F8536D37-F7EF-4983-9F77-C274D2F1BF5A}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 186.77484701998338
-      SNAPOFFS 0
-      LENGTH 1.49612127160114
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 54
-      IGUID {781520E0-CD8B-4F00-9834-7BE0B4FF67BB}
-      IID 261
-      NAME 01-180731_1749-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 40.45533428877885
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {4A967CEC-FDBB-44A4-BBB8-B38C450E150F}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 186.77484701998338
-      SNAPOFFS 0
-      LENGTH 0.8854733045159
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 54
-      IGUID {9C98A234-75D4-4A43-92B8-77BD891546D8}
-      IID 260
-      NAME 01-180731_1749-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 41.06598225586409
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {187081F5-65DD-493F-8DC5-54B49C480B88}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 186.77484701998338
-      SNAPOFFS 0
-      LENGTH 0.27482533731424
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 54
-      IGUID {85DC4ADC-5AB5-4F9D-A4F1-EB772DA88247}
-      IID 259
-      NAME 01-180731_1749-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 41.67663022306575
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {44430B5A-E934-4341-84F6-69E2450EAEA9}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 192
-      SNAPOFFS 0
-      LENGTH 1.0044987115605
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 57
-      IGUID {A7D49D96-2BF9-436F-92AB-4C6CE5426966}
-      IID 272
-      NAME 01-180731_1749-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 42.55393502453119
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E25F5F01-5EB5-499B-BDAF-572D2B5885A9}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 193.00449871155433
-      SNAPOFFS 0
-      LENGTH 1.0044987115605
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 57
-      IGUID {3BD3EF64-5D98-448D-874F-6E9321B5606C}
-      IID 273
-      NAME 01-180731_1749-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 42.55393502453119
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {C3659301-1929-4233-A8DC-61AECB9E7A21}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 194.00899742310867
-      SNAPOFFS 0
-      LENGTH 1.0044987115605
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 57
-      IGUID {DCDB3404-D20A-410B-BD08-6AC1AA11A647}
-      IID 274
-      NAME 01-180731_1749-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 42.55393502453119
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1C5E73F1-E145-4D93-8A87-21A8E494D9D7}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 195.013496134663
-      SNAPOFFS 0
-      LENGTH 1.0044987115605
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1.1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 57
-      IGUID {0E97B8A5-2D8A-4169-935F-2DFD37B45085}
-      IID 275
-      NAME 01-180731_1749-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 42.55393502453119
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E96CE098-9B0E-4B07-A5E1-8FCEDC3ACFD2}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 196.0179948462235
-      SNAPOFFS 0
-      LENGTH 1.0044987115605
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 57
-      IGUID {1C199B98-00C4-4574-B977-81BA0AEFA7A1}
-      IID 263
-      NAME 01-180731_1749-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 42.55393502453119
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9A3F7C40-BEA4-4EDE-8A07-F72C2D851C60}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 197.02249355777784
-      SNAPOFFS 0
-      LENGTH 1.0044987115605
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 57
-      IGUID {EC14ECD6-1CEA-4551-9D79-107D27F4CAEB}
-      IID 263
-      NAME 01-180731_1749-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 42.55393502453119
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {391D9720-699F-4D52-9AA9-AFF9B56C3E81}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 198.02699226933217
-      SNAPOFFS 0
-      LENGTH 1.0044987115605
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 57
-      IGUID {895379D4-CC55-4134-83A9-96BC0D4C6091}
-      IID 263
-      NAME 01-180731_1749-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 42.55393502453119
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {871A552D-96B2-46A7-A0A2-D0ED0286AEBC}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 199.0314909808865
+      POSITION 186.29569451617439
       SNAPOFFS 0
       LENGTH 1.0044987115605
       LOOP 1
@@ -2939,7 +2555,7 @@
       >
     >
     <ITEM
-      POSITION 200.78048780490644
+      POSITION 188.04469134019433
       SNAPOFFS 0
       LENGTH 1.56494993427513
       LOOP 1
@@ -2963,7 +2579,7 @@
       >
     >
     <ITEM
-      POSITION 202.40555862872861
+      POSITION 189.6697621640165
       SNAPOFFS 0
       LENGTH 1.47399011552639
       LOOP 1
@@ -2987,7 +2603,7 @@
       >
     >
     <ITEM
-      POSITION 204.03062945255078
+      POSITION 191.29483298783867
       SNAPOFFS 0
       LENGTH 1.47399011552639
       LOOP 1
@@ -3011,7 +2627,7 @@
       >
     >
     <ITEM
-      POSITION 205.65570027625654
+      POSITION 192.91990381154443
       SNAPOFFS 0
       LENGTH 1.47399011552639
       LOOP 1
@@ -3035,7 +2651,7 @@
       >
     >
     <ITEM
-      POSITION 207.8048780488316
+      POSITION 195.06908158411949
       SNAPOFFS 0
       LENGTH 0.64765278845601
       LOOP 1
@@ -3059,7 +2675,7 @@
       >
     >
     <ITEM
-      POSITION 209.01044860086404
+      POSITION 196.27465213615193
       SNAPOFFS 0
       LENGTH 0.64765278845601
       LOOP 1
@@ -3083,7 +2699,7 @@
       >
     >
     <ITEM
-      POSITION 210.21601915289648
+      POSITION 197.48022268818437
       SNAPOFFS 0
       LENGTH 0.64765278845601
       LOOP 1
@@ -3107,7 +2723,7 @@
       >
     >
     <ITEM
-      POSITION 211.4215897048125
+      POSITION 198.68579324010039
       SNAPOFFS 0
       LENGTH 0.64765278845601
       LOOP 1
@@ -3131,7 +2747,7 @@
       >
     >
     <ITEM
-      POSITION 212.78048780490644
+      POSITION 200.04469134019433
       SNAPOFFS 0
       LENGTH 1.03273152465397
       LOOP 1
@@ -3155,7 +2771,7 @@
       >
     >
     <ITEM
-      POSITION 213.81321932957508
+      POSITION 201.07742286486297
       SNAPOFFS 0
       LENGTH 1.03273152465397
       LOOP 1
@@ -3179,7 +2795,7 @@
       >
     >
     <ITEM
-      POSITION 214.84595085424371
+      POSITION 202.1101543895316
       SNAPOFFS 0
       LENGTH 1.03273152465397
       LOOP 1
@@ -3203,7 +2819,7 @@
       >
     >
     <ITEM
-      POSITION 215.87868237891234
+      POSITION 203.14288591420024
       SNAPOFFS 0
       LENGTH 1.03273152465397
       LOOP 1
@@ -3227,7 +2843,7 @@
       >
     >
     <ITEM
-      POSITION 218.84274327564503
+      POSITION 206.10694681093293
       SNAPOFFS 0
       LENGTH 0.1072430543262
       LOOP 1
@@ -3251,7 +2867,7 @@
       >
     >
     <ITEM
-      POSITION 219.20358531340281
+      POSITION 206.4677888486907
       SNAPOFFS 0
       LENGTH 0.09865630504808
       LOOP 1
@@ -3275,7 +2891,7 @@
       >
     >
     <ITEM
-      POSITION 219.36354774910581
+      POSITION 206.6277512843937
       SNAPOFFS 0
       LENGTH 0.09637551271808
       LOOP 1
@@ -3299,7 +2915,7 @@
       >
     >
     <ITEM
-      POSITION 219.57618074290613
+      POSITION 206.84038427819402
       SNAPOFFS 0
       LENGTH 0.29929405739287
       LOOP 1
@@ -3323,7 +2939,7 @@
       >
     >
     <ITEM
-      POSITION 220.86396121470008
+      POSITION 208.12816474998797
       SNAPOFFS 0
       LENGTH 0.1072430543262
       LOOP 1
@@ -3347,7 +2963,7 @@
       >
     >
     <ITEM
-      POSITION 221.22480325245786
+      POSITION 208.48900678774575
       SNAPOFFS 0
       LENGTH 0.09865630504808
       LOOP 1
@@ -3371,7 +2987,7 @@
       >
     >
     <ITEM
-      POSITION 221.38476568816085
+      POSITION 208.64896922344875
       SNAPOFFS 0
       LENGTH 0.09637551271808
       LOOP 1
@@ -3395,7 +3011,7 @@
       >
     >
     <ITEM
-      POSITION 221.59739868196118
+      POSITION 208.86160221724907
       SNAPOFFS 0
       LENGTH 0.29929405739287
       LOOP 1
@@ -3419,7 +3035,7 @@
       >
     >
     <ITEM
-      POSITION 222.73170731705613
+      POSITION 209.99591085234403
       SNAPOFFS 0
       LENGTH 0.85407953849545
       LOOP 1
@@ -3443,7 +3059,7 @@
       >
     >
     <ITEM
-      POSITION 223.58578685554676
+      POSITION 210.84999039083465
       SNAPOFFS 0
       LENGTH 0.85407953849545
       LOOP 1
@@ -3467,7 +3083,7 @@
       >
     >
     <ITEM
-      POSITION 224.43986639403738
+      POSITION 211.70406992932527
       SNAPOFFS 0
       LENGTH 0.85407953849545
       LOOP 1
@@ -3491,7 +3107,7 @@
       >
     >
     <ITEM
-      POSITION 225.293945932528
+      POSITION 212.55814946781589
       SNAPOFFS 0
       LENGTH 0.85407953849545
       LOOP 1
@@ -3515,7 +3131,7 @@
       >
     >
     <ITEM
-      POSITION 226.68180105674239
+      POSITION 213.94600459203028
       SNAPOFFS 0
       LENGTH 0.32286749635122
       LOOP 1
@@ -3539,7 +3155,7 @@
       >
     >
     <ITEM
-      POSITION 227.54752982024081
+      POSITION 214.8117333555287
       SNAPOFFS 0
       LENGTH 0.32286749635122
       LOOP 1
@@ -3563,7 +3179,7 @@
       >
     >
     <ITEM
-      POSITION 228.40166400208525
+      POSITION 215.66586753737315
       SNAPOFFS 0
       LENGTH 0.32286749635122
       LOOP 1
@@ -3587,7 +3203,7 @@
       >
     >
     <ITEM
-      POSITION 229.46341463411227
+      POSITION 216.72761816940016
       SNAPOFFS 0
       LENGTH 1.0341690779419
       LOOP 1
@@ -3611,7 +3227,7 @@
       >
     >
     <ITEM
-      POSITION 230.49758371210191
+      POSITION 217.7617872473898
       SNAPOFFS 0
       LENGTH 1.0341690779419
       LOOP 1
@@ -3635,7 +3251,7 @@
       >
     >
     <ITEM
-      POSITION 231.53175279009156
+      POSITION 218.79595632537945
       SNAPOFFS 0
       LENGTH 1.0341690779419
       LOOP 1
@@ -3659,7 +3275,7 @@
       >
     >
     <ITEM
-      POSITION 232.56592186796479
+      POSITION 219.83012540325268
       SNAPOFFS 0
       LENGTH 1.0341690779419
       LOOP 1
@@ -3683,7 +3299,7 @@
       >
     >
     <ITEM
-      POSITION 234.43902439018711
+      POSITION 221.70322792547501
       SNAPOFFS 0
       LENGTH 1.87289724844487
       LOOP 1
@@ -3707,7 +3323,7 @@
       >
     >
     <ITEM
-      POSITION 236.31192163866945
+      POSITION 223.57612517395734
       SNAPOFFS 0
       LENGTH 1.87289724844487
       LOOP 1
@@ -3731,7 +3347,7 @@
       >
     >
     <ITEM
-      POSITION 238.18481888715178
+      POSITION 225.44902242243967
       SNAPOFFS 0
       LENGTH 1.87289724844487
       LOOP 1
@@ -3755,7 +3371,7 @@
       >
     >
     <ITEM
-      POSITION 240.05771613551769
+      POSITION 227.32191967080558
       SNAPOFFS 0
       LENGTH 1.87289724844487
       LOOP 1
@@ -3779,7 +3395,7 @@
       >
     >
     <ITEM
-      POSITION 242.97746870636692
+      POSITION 230.24167224165481
       SNAPOFFS 0
       LENGTH 4.40440655116041
       LOOP 1
@@ -3803,7 +3419,7 @@
       >
     >
     <ITEM
-      POSITION 242.97746870636692
+      POSITION 230.24167224165481
       SNAPOFFS 0
       LENGTH 3.21747432218913
       LOOP 1
@@ -3827,7 +3443,7 @@
       >
     >
     <ITEM
-      POSITION 242.97746870636692
+      POSITION 230.24167224165481
       SNAPOFFS 0
       LENGTH 2.03054209310145
       LOOP 1
@@ -3851,7 +3467,7 @@
       >
     >
     <ITEM
-      POSITION 242.97746870636692
+      POSITION 230.24167224165481
       SNAPOFFS 0
       LENGTH 0.84360986413017
       LOOP 1
@@ -3875,7 +3491,7 @@
       >
     >
     <ITEM
-      POSITION 248.1951219511684
+      POSITION 235.45932548645629
       SNAPOFFS 0
       LENGTH 1.41832168170833
       LOOP 1
@@ -3899,7 +3515,7 @@
       >
     >
     <ITEM
-      POSITION 249.61344363284297
+      POSITION 236.87764716813086
       SNAPOFFS 0
       LENGTH 1.41832168170833
       LOOP 1
@@ -3923,7 +3539,7 @@
       >
     >
     <ITEM
-      POSITION 251.03176531451754
+      POSITION 238.29596884980543
       SNAPOFFS 0
       LENGTH 1.41832168170833
       LOOP 1
@@ -3947,7 +3563,7 @@
       >
     >
     <ITEM
-      POSITION 252.45008699630853
+      POSITION 239.71429053159642
       SNAPOFFS 0
       LENGTH 1.41832168170833
       LOOP 1
@@ -3971,7 +3587,7 @@
       >
     >
     <ITEM
-      POSITION 254.63414634147193
+      POSITION 241.89834987675982
       SNAPOFFS 0
       LENGTH 3.33525710835409
       LOOP 1
@@ -3995,7 +3611,7 @@
       >
     >
     <ITEM
-      POSITION 257.96940344979521
+      POSITION 245.2336069850831
       SNAPOFFS 0
       LENGTH 3.33525710835409
       LOOP 1
@@ -4019,7 +3635,7 @@
       >
     >
     <ITEM
-      POSITION 261.3046605582349
+      POSITION 248.56886409352279
       SNAPOFFS 0
       LENGTH 3.33525710835409
       LOOP 1
@@ -4043,7 +3659,7 @@
       >
     >
     <ITEM
-      POSITION 264.63991766655818
+      POSITION 251.90412120184604
       SNAPOFFS 0
       LENGTH 3.33525710835409
       LOOP 1
@@ -4066,8 +3682,32 @@
         FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
       >
     >
+  >
+  <TRACK {5D8CB7DC-A871-4C9B-AE91-0F14E69F4C0B}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5D8CB7DC-A871-4C9B-AE91-0F14E69F4C0B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
     <ITEM
-      POSITION 357.55117275839649
+      POSITION 259.31614959537785
       SNAPOFFS 0
       LENGTH 22.38314892022058
       LOOP 1
@@ -4090,7 +3730,7 @@
       >
     >
     <ITEM
-      POSITION 380.97762417738875
+      POSITION 282.74260101437011
       SNAPOFFS 0
       LENGTH 43.8965015380512
       LOOP 1
@@ -4113,7 +3753,7 @@
       >
     >
     <ITEM
-      POSITION 427.72334493535055
+      POSITION 329.48832177233191
       SNAPOFFS 0
       LENGTH 35.37945578231292
       LOOP 1
@@ -4136,30 +3776,7 @@
       >
     >
     <ITEM
-      POSITION 466.30600471883889
-      SNAPOFFS 0
-      LENGTH 69.30816326530612
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {06FEFB7B-80E1-41D3-A2EE-43F699DE05EC}
-      IID 4
-      NAME 01-180731_1757.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {02828677-0033-49DE-A910-E4FC97BABE09}
-      RECPASS 4
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1757.wav"
-      >
-    >
-    <ITEM
-      POSITION 544.69103926023604
+      POSITION 446.45601609721723
       SNAPOFFS 0
       LENGTH 0.14897959183673
       LOOP 1
@@ -4183,7 +3800,7 @@
       >
     >
     <ITEM
-      POSITION 545.4093839314221
+      POSITION 447.17436076840329
       SNAPOFFS 0
       LENGTH 1.20371573446092
       LOOP 1
@@ -4207,7 +3824,7 @@
       >
     >
     <ITEM
-      POSITION 546.61309966595513
+      POSITION 448.37807650293632
       SNAPOFFS 0
       LENGTH 0.14897959183673
       LOOP 1
@@ -4228,172 +3845,6 @@
       RECPASS 1
       <SOURCE WAVE
         FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749.wav"
-      >
-    >
-    <ITEM
-      POSITION 547.33144433714119
-      SNAPOFFS 0
-      LENGTH 1.20371573446092
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 1
-      IGUID {509F5323-EFB8-476C-A627-4DDC0A472529}
-      IID 5
-      NAME 01-180731_1749-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {229D4A51-D1B4-4F22-A6A0-3DCA6E457684}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 548.53516007155781
-      SNAPOFFS 0
-      LENGTH 0.14897959183673
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 1
-      IGUID {39D7E19A-3461-4761-8416-F9464BAB8875}
-      IID 1
-      NAME 01-180731_1749.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2848C74F-B578-4D9D-A086-4783C677C6AD}
-      RECPASS 1
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749.wav"
-      >
-    >
-    <ITEM
-      POSITION 549.25350474274387
-      SNAPOFFS 0
-      LENGTH 1.20371573446092
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 1
-      IGUID {3215AD56-A39A-4ABE-808C-EB611233141D}
-      IID 5
-      NAME 01-180731_1749-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1A749AE9-D5B2-45EA-B190-336CD49E3172}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 550.45722047727691
-      SNAPOFFS 0
-      LENGTH 0.14897959183673
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 1
-      IGUID {1AF0B7A3-8990-441B-963E-4BB311376968}
-      IID 1
-      NAME 01-180731_1749.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2DDB23DD-37F9-4BDA-9DC7-B7DF67B8C52F}
-      RECPASS 1
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749.wav"
-      >
-    >
-    <ITEM
-      POSITION 551.17556514846297
-      SNAPOFFS 0
-      LENGTH 1.20371573446092
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      GROUP 1
-      IGUID {560E6D33-7537-4479-836B-6A8C010B266C}
-      IID 5
-      NAME 01-180731_1749-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {DEBE315E-CE82-4D7D-9BC8-EB71C7EC9385}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180731_1749-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 555.12945143085676
-      SNAPOFFS 0
-      LENGTH 33.04149659863945
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {5115E2BD-B72A-441A-BE17-BDCC237DBA19}
-      IID 16
-      NAME 01-180801_1704.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {FFEAAAB0-96D1-49A0-A9F0-CE38D5FCA971}
-      RECPASS 5
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180801_1704.wav"
-      >
-    >
-    <ITEM
-      POSITION 610.58090267802208
-      SNAPOFFS 0
-      LENGTH 30.72530612244898
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {0F9A3647-DAC3-4212-89A1-DC50C23F4523}
-      IID 18
-      NAME 01-180801_1710.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D5C20443-62BD-476C-9B89-8EBBF723920B}
-      RECPASS 7
-      <SOURCE WAVE
-        FILE "H:\3. MZR\01_Музорез\3. Разбор диктофонии (проект Reaper)\4. Прочие проекты с нарезкой музкусков. NVP\002_Упражнения по гитаре (мои)\1. Исходники\01-180801_1710.wav"
       >
     >
   >
